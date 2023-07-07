@@ -1,0 +1,3 @@
+here i am writing something using 
+writefilesync and finding result: parent of this file is content 
+whereas sibling is "sub":
